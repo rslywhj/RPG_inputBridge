@@ -3,7 +3,7 @@
 // @namespace    https://douglas.example
 // @version      1.1.0
 // @description  移动端RPG虚拟键。
-// @author       you
+// @author       1105347115
 // @match        *://*.oraclecloud.com/*
 // @run-at       document-end
 // @grant        none
